@@ -13,7 +13,7 @@ namespace DateTime_Timespan
                 throw new ArgumentException("Mehsulun adi bos ola bilmez", nameof(name));
            
             if (price <= 0)
-                throw new ArgumentException("Qiymet 0-dan ve ya - ola bilmez", nameof(price));
+                throw new ArgumentException("Qiymet 0 ve ya - ola bilmez", nameof(price));
             
             Name = name;
             Price = price;
