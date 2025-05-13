@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akifst\\Desktop\\DateTime Timespan Access Modifiers Encapsulation\\DateTime Timespan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C774D-C36C-4609-9AA4-45681037A177}|DateTime Timespan\\DateTime Timespan.csproj|c:\\users\\akifst\\desktop\\datetime timespan access modifiers encapsulation\\datetime timespan\\datetime timespan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C774D-C36C-4609-9AA4-45681037A177}|DateTime Timespan\\DateTime Timespan.csproj|solutionrelative:datetime timespan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C774D-C36C-4609-9AA4-45681037A177}|DateTime Timespan\\DateTime Timespan.csproj|c:\\users\\akifst\\desktop\\datetime timespan access modifiers encapsulation\\datetime timespan\\datetime timespan\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C774D-C36C-4609-9AA4-45681037A177}|DateTime Timespan\\DateTime Timespan.csproj|solutionrelative:datetime timespan\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C774D-C36C-4609-9AA4-45681037A177}|DateTime Timespan\\DateTime Timespan.csproj|c:\\users\\akifst\\desktop\\datetime timespan access modifiers encapsulation\\datetime timespan\\datetime timespan\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C774D-C36C-4609-9AA4-45681037A177}|DateTime Timespan\\DateTime Timespan.csproj|solutionrelative:datetime timespan\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\akifst\\Desktop\\DateTime Timespan Access Modifiers Encapsulation\\DateTime Timespan\\DateTime Timespan\\Book.cs",
+              "RelativeDocumentMoniker": "DateTime Timespan\\Book.cs",
+              "ToolTip": "C:\\Users\\akifst\\Desktop\\DateTime Timespan Access Modifiers Encapsulation\\DateTime Timespan\\DateTime Timespan\\Book.cs",
+              "RelativeToolTip": "DateTime Timespan\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:53:04.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\akifst\\Desktop\\DateTime Timespan Access Modifiers Encapsulation\\DateTime Timespan\\DateTime Timespan\\Product.cs",
+              "RelativeDocumentMoniker": "DateTime Timespan\\Product.cs",
+              "ToolTip": "C:\\Users\\akifst\\Desktop\\DateTime Timespan Access Modifiers Encapsulation\\DateTime Timespan\\DateTime Timespan\\Product.cs",
+              "RelativeToolTip": "DateTime Timespan\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:36:57.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akifst\\Desktop\\DateTime Timespan Access Modifiers Encapsulation\\DateTime Timespan\\DateTime Timespan\\Program.cs",
+              "RelativeDocumentMoniker": "DateTime Timespan\\Program.cs",
+              "ToolTip": "C:\\Users\\akifst\\Desktop\\DateTime Timespan Access Modifiers Encapsulation\\DateTime Timespan\\DateTime Timespan\\Program.cs",
+              "RelativeToolTip": "DateTime Timespan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:33:56.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

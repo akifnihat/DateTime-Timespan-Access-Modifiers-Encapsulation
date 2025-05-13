@@ -1,0 +1,14 @@
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\bin\Debug\net8.0\DateTime Timespan.exe
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\bin\Debug\net8.0\DateTime Timespan.deps.json
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\bin\Debug\net8.0\DateTime Timespan.runtimeconfig.json
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\bin\Debug\net8.0\DateTime Timespan.dll
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\bin\Debug\net8.0\DateTime Timespan.pdb
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\obj\Debug\net8.0\DateTime Timespan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\obj\Debug\net8.0\DateTime Timespan.AssemblyInfoInputs.cache
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\obj\Debug\net8.0\DateTime Timespan.AssemblyInfo.cs
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\obj\Debug\net8.0\DateTime Timespan.csproj.CoreCompileInputs.cache
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\obj\Debug\net8.0\DateTime Timespan.dll
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\obj\Debug\net8.0\refint\DateTime Timespan.dll
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\obj\Debug\net8.0\DateTime Timespan.pdb
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\obj\Debug\net8.0\DateTime Timespan.genruntimeconfig.cache
+C:\Users\akifst\Desktop\DateTime Timespan Access Modifiers Encapsulation\DateTime Timespan\DateTime Timespan\obj\Debug\net8.0\ref\DateTime Timespan.dll
