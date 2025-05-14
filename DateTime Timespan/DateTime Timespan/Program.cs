@@ -51,11 +51,20 @@
 
                 if (option == "1")
                 {
-                    Console.Write("Minimum qiymeti daxil et: ");
-                    decimal minPrice = decimal.Parse(Console.ReadLine());
-
-                    Console.Write("Maksimum qiymeti daxil et: ");
-                    decimal maxPrice = decimal.Parse(Console.ReadLine());
+                    for (int i = 0; i < books.Length-1; i++)
+                    {
+                        for(int j = 0; j < books.Length-1; j++)
+                        {
+                            if(books[i].Price > books[j + 1].Price)
+                            {
+                                Book temp = books[i];
+                                books[i] = books[j + 1];
+                                books[j + 1] = temp;
+                            }
+                        }
+                            
+                    }
+                    
 
                     Console.WriteLine("\nQiymete gore filtr edilmis kitablar:");
                     foreach (var book in books)
